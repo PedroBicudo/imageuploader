@@ -17,6 +17,27 @@ Resolver o desafio [image uploader](https://devchallenges.io/challenges/O2iGT9yB
   - [Back end](https://github.com/PedroBicudo/imageuploadapi)
   - [Front end](https://github.com/PedroBicudo/imageuploadfrontend)
 
+## Informações extras
+
+### Problemas que eu tive
+
+- Fazer o upload de arquivos usando o swagger
+- Mostrar imagens como resposta no swagger
+
+### O que eu aprendi
+
+- Usar a classe [MultiPartFile](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/multipart/MultipartFile.html) para obter upload de arquivos.
+- Aprendi que para fazer o upload de arquivos o content-type deve estar definido como multipart/form-data
+- Aprendi a fazer o upload de arquivos no Postman e Swagger doc
+- Aprendi a usar o swagger com OpenAPI
+- Aprendi a gerar cabeçalho de maneira dinâmica.
+- Aprendi a usar o Content-Dispoition no cabeçalho HTTP
+- Eu descobri que eu estava usavando o status code Found errado, a função dele está ligada ao redirecionamento, enquanto o status code Ok está relacionado ao retorno de dados.
+- Aprendi a usar o Scheduled para executar ações em intervalos, no projeto a cada uma hora todas as imagens cadastradas antes de um horário específico são apagadas.
+- Aprendi a fazer o upload de imagens no Angular
+- Aprendi a usar o a biblioteca dropzone do Angular
+- Aprendi a usar submódulos no Git
+
 ### Tecnologias usadas
 **Front end**
 - HTML e CSS
