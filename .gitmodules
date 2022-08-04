@@ -1,0 +1,6 @@
+[submodule "imageuploadfrontend"]
+	path = imageuploadfrontend
+	url = git@github.com:PedroBicudo/imageuploadfrontend.git
+[submodule "imageuploadapi"]
+	path = imageuploadapi
+	url = git@github.com:PedroBicudo/imageuploadapi.git
