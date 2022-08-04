@@ -1,7 +1,7 @@
 <div align="center">
     <h2>Image uploader</h2>
     <p>Aplicação Full stack de upload e acesso a imagens</p>
-    <a href="https://imageuploader-pedrobicudo.herokuapp.com/swagger-ui.html">Documentação da API</a>
+    <a href="https://imageuploader-pedrobicudo.herokuapp.com/swagger-ui.html">Documentação da API</a><br/>
     <a href="https://imageuploader-pedrobicudo.netlify.app/upload">Site</a>
 </div>
 
