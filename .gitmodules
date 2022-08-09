@@ -1,8 +1,8 @@
-[submodule "imageuploadfrontend"]
-	path = imageuploadfrontend
-	url = git@github.com:PedroBicudo/imageuploadfrontend.git
-	branch = main
 [submodule "imageuploadapi"]
 	path = imageuploadapi
 	url = git@github.com:PedroBicudo/imageuploadapi.git
+	branch = main
+[submodule "imageuploadfrontend"]
+	path = imageuploadfrontend
+	url = git@github.com:PedroBicudo/imageuploadfrontend.git
 	branch = main
